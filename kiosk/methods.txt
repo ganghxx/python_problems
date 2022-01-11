@@ -1,0 +1,13 @@
+(고객)
+메뉴판 보여주기 메소드 : self.show_menu()
+장바구니 보기 메소드 : self.show_cart()
+장바구니 취소하기 메소드 : self.delete_cart()
+최종 결제하기 메소드 : self.pay()
+메뉴 선택 메소드 : self.choose_menu()
+
+(사장님)
+메뉴 추가 메소드 : self.append_menu()
+메뉴 삭제 메소드 : self.delete_menu()
+매출 확인하기 : self.show_sales()
+id 변경 : self.change_id()
+pw 변경 : self.change_pw()
